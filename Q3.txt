@@ -1,0 +1,12 @@
+Most of the time, our stakeholders (in this case, the CS:GO coaching staff) aren’t tech-savvy
+enough to run code themselves. Propose a solution to your product manager that:
+    a. could allow our coaching staff to request or acquire the output themselves
+    b. takes less than 1 weeks worth of work to implement
+
+A very effective solution would be to build a simple website that provides drop down options 
+for the specific filters they want to select (team_side, weapons, rounds, etc.). 
+Develop heatmaps or well formatted output results for the coaches to easily view formatted 
+results. The code for part a and b could be used in the background on the backend.
+
+The website would also need to be able to gain access to the datasets since the coaches
+would find it difficult to obtian the data and pass it into the website.
